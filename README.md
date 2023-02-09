@@ -60,6 +60,6 @@ Se requiere un programa en Java para determinar cuál es el número más pequeñ
 ~~~
 
 Etapa 03. Diseño de la Solución
-
+![](https://github.com/EmanuelQuirino99/Ejercicio_Tres/blob/master/Diagrama%20de%20Clases.png)
 
 
